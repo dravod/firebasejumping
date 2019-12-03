@@ -1,0 +1,23 @@
+{
+  "name": "firebasejumping",
+  "version": "1.0.0",
+  "description": "Web app using firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dravod/firebasejumping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dravod/firebasejumping/issues"
+  },
+  "homepage": "https://github.com/dravod/firebasejumping#readme",
+  "dependencies": {
+    "create-react-app": "^3.2.0",
+    "react": "^16.12.0"
+  }
+}
